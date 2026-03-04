@@ -8,7 +8,7 @@ export default function IntroScreen({ onNext }) {
     >
       <motion.div >
         <h1 className="text-4xl md:text-5xl font-dancing font-semibold text-rose-500/85 tracking-wide">
-          Just for you
+          Mr. Nirlojjo ❤️
         </h1>
       </motion.div>
 
@@ -27,7 +27,7 @@ export default function IntroScreen({ onNext }) {
         </div>
       </motion.button>
       <p className="text-rose-400/70 text-sm font-medium tracking-wide mt-4">
-        Tap to open
+        Tap for your Day 5 surprise 🎉
       </p>
 
     </motion.div>
